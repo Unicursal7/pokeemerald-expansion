@@ -1,28 +1,27 @@
 gText_WouldYouLikeToRestYourPkmn::
-	.string "Hello, and welcome to\n"
-	.string "the POKéMON CENTER.\p"
-	.string "We restore your tired POKéMON\n"
-	.string "to full health.\p"
-	.string "Would you like to rest your POKéMON?$"
+	.string "Hallo und willkommen beim\n"
+	.string "Arbeitsamt Magdeburg.\p"
+	.string "Du bist hier um dein Bürgergeld\n"
+	.string "abzuholen?$"
 
 gText_IllTakeYourPkmn::
-	.string "Okay, I'll take your POKéMON\n"
-	.string "for a few seconds.$"
+	.string "Okay, dann brauche ich einmal\n"
+	.string "deine Unterlagen.$"
 
 gText_RestoredPkmnToFullHealth::
-	.string "Thank you for waiting.\p"
-	.string "We've restored your POKéMON\n"
-	.string "to full health.$"
+	.string "Du hast diesen Monat schon dein\n"
+	.string "Geld bekommen. Wenn dir das nicht\l"
+	.string "reicht, würde ich es mal mit\l"
+	.string "Arbeiten versuchen.$"
 
 gText_WeHopeToSeeYouAgain::
-	.string "We hope to see you again!$"
+	.string "Hoffentlich sehen wir uns nicht wieder!$"
 
 gText_WelcomeCutShort::
-	.string "Hello, and welcome to\n"
-	.string "the POKéMON CENTER.\p"
-	.string "We restore your tired POKéMON\n"
-	.string "to full health.\p"
-	.string "Would you like to…$"
+	.string "Hallo und willkommen beim\n"
+	.string "Arbeitsamt Magdeburg.\p"
+	.string "Du bist hier um dein Bürgergeld\n"
+	.string "abzuholen?$"
 
 gText_NoticesGoldCard::
 	.string "Th-that card…\n"
@@ -41,11 +40,14 @@ gText_YouWantTheUsual::
 	.string "You want the usual, am I right?$"
 
 gText_IllTakeYourPkmn2::
-	.string "Okay, I'll take your POKéMON\n"
-	.string "for a few seconds.$"
+	.string "Okay, dann brauche ich einmal\n"
+	.string "deine Unterlagen.$"
 
 gText_ThankYouForWaiting::
-	.string "Thank you for waiting.$"
+	.string "Du hast diesen Monat schon dein\n"
+	.string "Geld bekommen. Wenn dir das nicht\l"
+	.string "reicht, würde ich es mal mit\l"
+	.string "Arbeiten versuchen.$"
 
 gText_WeHopeToSeeYouAgain2::
-	.string "We hope to see you again!$"
+	.string "Hoffentlich sehen wir uns nicht wieder!$"

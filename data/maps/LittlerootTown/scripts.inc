@@ -910,103 +910,95 @@ LittlerootTown_EventScript_GiveRunningShoes::
 	return
 
 LittlerootTown_Text_OurNewHomeLetsGoInside:
-	.string "MOM: {PLAYER}, we're here, honey!\p"
-	.string "It must be tiring riding with our things\n"
-	.string "in the moving truck.\p"
-	.string "Well, this is LITTLEROOT TOWN.\p"
-	.string "How do you like it?\n"
-	.string "This is our new home!\p"
-	.string "It has a quaint feel, but it seems to be\n"
-	.string "an easy place to live, don't you think?\p"
-	.string "And, you get your own room, {PLAYER}!\n"
-	.string "Let's go inside.$"
+	.string "Tims Mom: Ey du Fettsack, verpiss dich.\p"
+	.string "Hab ich das gerade richtig gesehen, dass\n"
+	.string "du einen Frosch über den LKW geworfen hast?\p"
+	.string "Naja, ist mir jetzt auch scheißegal.\p"
+	.string "Ich geh wieder rein, und lass mich weiter\n"
+	.string "von meinen geilen Affen durchnehmen.$"
 
 LittlerootTown_Text_WaitPlayer:
-	.string "MOM: Wait, {PLAYER}!$"
+	.string "Tims Mom: Ey, Fettsack!$"
 
 LittlerootTown_Text_WearTheseRunningShoes:
-	.string "MOM: {PLAYER}! {PLAYER}! Did you\n"
-	.string "introduce yourself to PROF. BIRCH?\p"
-	.string "Oh! What an adorable POKéMON!\n"
-	.string "You got it from PROF. BIRCH. How nice!\p"
-	.string "You're your father's child, all right.\n"
-	.string "You look good together with POKéMON!\p"
-	.string "Here, honey! If you're going out on an\n"
-	.string "adventure, wear these RUNNING SHOES.\p"
-	.string "They'll put a zip in your step!$"
+	.string "Tims Mom: Ich hab jetzt das neuste\n"
+	.string "Video von ApoRed geglotzt.\p"
+	.string "Und er hat jetzt richtig freshe\n"
+	.string "Yeezy Boost Super Sneaks vorgestellt.\p"
+	.string "Leider passen mir diese goofy Boots\n"
+	.string "nicht, also kannst du sie haben.\p"
+	.string "Dann siehst du auch nicht mehr so aus\n"
+	.string "wie ein Bot mit deinen NPC-Boots.$"
 
 LittlerootTown_Text_SwitchShoesWithRunningShoes:
-	.string "{PLAYER} switched shoes with the\n"
-	.string "RUNNING SHOES.$"
+	.string "{PLAYER} tauscht seine Schuhe mit\n"
+	.string "Yeezy Boost Super Sneaks.$"
 
 LittlerootTown_Text_ExplainRunningShoes:
-	.string "MOM: {PLAYER}, those shoes came with\n"
-	.string "instructions.\p"
-	.string "“Press the B Button while wearing these\n"
-	.string "RUNNING SHOES to run extra-fast!\p"
-	.string "“Slip on these RUNNING SHOES and race\n"
-	.string "in the great outdoors!”$"
+	.string "Tims Mom: {PLAYER}, Red, der aller\n"
+	.string "echte Hase hat in seinem Video gesagt:\p"
+	.string "“Mach nen Stepper auf den B-Key und\n"
+	.string "schon bist du fast as fuck boii.”$"
 
 LittlerootTown_Text_ComeHomeIfAnythingHappens:
-	.string "… … … … … … … …\n"
-	.string "… … … … … … … …\p"
-	.string "To think that you have your very own\n"
-	.string "POKéMON now…\l"
-	.string "Your father will be overjoyed.\p"
-	.string "…But please be careful.\n"
-	.string "If anything happens, you can come home.\p"
-	.string "Go on, go get them, honey!$"
+	.string "Naja, jetzt wo du diesen scheiß\n"
+	.string "Vogel hast, kannst du dich auf\l"
+	.string "den Weg zum ersten Fitnessstudio.\l"
+	.string "maken. Schön durchziehen!$"
 
 LittlerootTown_Text_CanUsePCToStoreItems:
-	.string "If you use a PC, you can store items\n"
-	.string "and POKéMON.\p"
-	.string "The power of science is staggering!$"
+	.string "4 Cheesies, ja die gönn ich mir!\n"
+	.string "Sieh zu, wie ich sie inhalier'!\p"
+	.string "4 Cheesies, gehen bei mir immer rein!\n"
+	.string "Way overpriced, nasty aber geil!$"
 
 LittlerootTown_Text_BirchSpendsDaysInLab:
-	.string "PROF. BIRCH spends days in his LAB\n"
-	.string "studying, then he'll suddenly go out in\l"
-	.string "the wild to do more research…\p"
-	.string "When does PROF. BIRCH spend time\n"
-	.string "at home?$"
+	.string "Denkst du, dass sie die Gedanken\n"
+	.string "genommen haben, die wir gedacht\l"
+	.string "haben und wollen dass wir denken,\l"
+	.string "dass die Gedanken die wir gedacht\l"
+	.string "haben, die Gedanken sind, die wir\l"
+	.string "jetzt denken?\p"
+	.string "Denkst du das?$"
 
 LittlerootTown_Text_IfYouGoInGrassPokemonWillJumpOut:
-	.string "Um, um, um!\p"
-	.string "If you go outside and go in the grass,\n"
-	.string "wild POKéMON will jump out!$"
+	.string "HALT STOPP!\n"
+	.string "JETZT REDE ICH!\p" 
+	.string "OB DU HIER BIST UND NICH!$"
 
 LittlerootTown_Text_DangerousIfYouDontHavePokemon:
-	.string "It's dangerous if you don't have\n"
-	.string "your own POKéMON.$"
+	.string "Mach dich aus meiner Leitung raus,\n"
+	.string "du Birne.$"
 
 LittlerootTown_Text_CanYouGoSeeWhatsHappening:
-	.string "Um, hi!\p"
-	.string "There are scary POKéMON outside!\n"
-	.string "I can hear their cries!\p"
-	.string "I want to go see what's going on,\n"
-	.string "but I don't have any POKéMON…\p"
-	.string "Can you go see what's happening\n"
-	.string "for me?$"
+	.string "Bro, ich glaub deine Mom wird\n"
+	.string "gerade übel von Pokemon mishandelt!\p"
+	.string "Ich hör zumindest Geschrei.\p"
+	.string "Ich würd ja selbst glotzen, aber\n"
+	.string "ich bin erst 15 Jahre alt.\p"
+	.string "Kannst du mal nen Stepper maken\n"
+	.string "und nachschauen?$"
 
 LittlerootTown_Text_YouSavedBirch:
-	.string "You saved PROF. BIRCH!\n"
-	.string "I'm so glad!$"
+	.string "Nice bro, du hast deine Mom gesaved.\n"
+	.string "Mad respect!$"
 
 LittlerootTown_Text_GoodLuckCatchingPokemon:
-	.string "Are you going to catch POKéMON?\n"
-	.string "Good luck!$"
+	.string "Was starrt der Fettsack mich\n"
+	.string "denn so an?!$"
 
 LittlerootTown_Text_TownSign:
-	.string "LITTLEROOT TOWN\n"
-	.string "“A town that can't be shaded any hue.”$"
+	.string "Magdeburg\n"
+	.string "“Unser Motto heißt: Otto (??? xD)”$"
 
 LittlerootTown_Text_ProfBirchsLab:
-	.string "PROF. BIRCH'S POKéMON LAB$"
+	.string "Hier wohnt {PLAYER}$"
 
 LittlerootTown_Text_PlayersHouse:
-	.string "{PLAYER}'s HOUSE$"
+	.string "Haus von Tims Mom$"
 
 LittlerootTown_Text_ProfBirchsHouse:
-	.string "PROF. BIRCH'S HOUSE$"
+	.string "Carlos Giftlabor$"
 
 LittlerootTown_Text_BirchSomethingToShowYouAtLab:
 	.string "PROF. BIRCH: Well, well, {PLAYER}{KUN}!\n"

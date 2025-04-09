@@ -303,97 +303,87 @@ DewfordTown_Gym_Text_GymGuidePostVictory:
 	.string "Your future is bright, too!$"
 
 DewfordTown_Gym_Text_TakaoIntro:
-	.string "Might is right!\n"
-	.string "Come on!$"
+	.string "Yooo, hast du dich verlaufen?!\n"
+	.string "Hier wird gepumpt und nicht gefressen!$"
 
 DewfordTown_Gym_Text_TakaoDefeat:
-	.string "Not enough power…$"
+	.string "War wohl ne kleine Portion.$"
 
 DewfordTown_Gym_Text_TakaoPostBattle:
-	.string "Your skill overcame my strength!\n"
-	.string "Your technique is commendable!$"
+	.string "4 Cheeseburger, 1 McRib,\n"
+	.string "20er Nuggets, Chilli Cheese Nuggets,\l"
+	.string "2 Long Chicken und 1 Big Mac.$"
 
 DewfordTown_Gym_Text_JocelynIntro:
-	.string "There's no need for BRAWLY to be\n"
-	.string "involved!\p"
-	.string "I'll crush you!$"
+	.string "Berühren.$"
 
 DewfordTown_Gym_Text_JocelynDefeat:
-	.string "But… How?\n"
-	.string "How could I lose so easily?$"
+	.string "Nicht berühren.$"
 
 DewfordTown_Gym_Text_JocelynPostBattle:
-	.string "I'm not going to waste this loss.\n"
-	.string "I'll use it to motivate me to train!\p"
-	.string "One day I'll become a GYM LEADER…\p"
-	.string "No, I'll become the POKéMON LEAGUE\n"
-	.string "CHAMPION!$"
+	.string "Was ist so toll, an einer\n"
+	.string "schnöseligen Gurke?$"
 
 DewfordTown_Gym_Text_LauraIntro:
-	.string "Don't you dare brush me off!\n"
-	.string "It's not my fault if you cry!$"
+	.string "Du bist ja gar nicht sexy\n"
+	.string "Carlo! Ich wollte doch ein Date!$"
 
 DewfordTown_Gym_Text_LauraDefeat:
-	.string "Waaaaaaah!\n"
-	.string "I lost!$"
+	.string "Kannst du mir trotzdem Carlos\n"
+	.string "Nummer geben?$"
 
 DewfordTown_Gym_Text_LauraPostBattle:
-	.string "I battle in the dark to make my heart\n"
-	.string "stronger.\p"
-	.string "But because it's so dark, I can never\n"
-	.string "see BRAWLY's face…$"
+	.string "Wie ist denn jetzt Carlos\n"
+	.string "Nummer?$"
 
 DewfordTown_Gym_Text_LilithIntro:
-	.string "Ufufu…\n"
-	.string "Are you stumbling around in the dark?$"
+	.string "Hast du Mal Carlos Bizeps gesehen?\n"
+	.string "Der ist größer als dein\l"
+	.string "Bauchumfang!$"
 
 DewfordTown_Gym_Text_LilithDefeat:
-	.string "Oh, you…\n"
-	.string "I don't want to know you!$"
+	.string "Davon wächst dein Bizeps aber\n"
+	.string "auch nicht so wie Carlos!$"
 
 DewfordTown_Gym_Text_LilithPostBattle:
-	.string "You deserve to stay lost and end up\n"
-	.string "back at the entrance again!$"
+	.string "Selbst Braum hat mit seinen\n"
+	.string "85cm mehr Bizeps als du!$"
 
 DewfordTown_Gym_Text_BrendenIntro:
-	.string "I'll show you the gumption of\n"
-	.string "a sailing man!$"
+	.string "WO IST DER TYP IN DEM\n"
+	.string "BOOT MAN!$"
 
 DewfordTown_Gym_Text_BrendenDefeat:
-	.string "How'd this happen?\n"
-	.string "It's not like me to lose this way!$"
+	.string "Was bei Neptuns Nasenhaaren\n"
+	.string "soll denn das?$"
 
 DewfordTown_Gym_Text_BrendenPostBattle:
-	.string "Oh, aye! You're worthy of seeing\n"
-	.string "our GYM LEADER.$"
+	.string "Wo ist mein Kassierer zur Qualle?!$"
 
 DewfordTown_Gym_Text_CristianIntro:
-	.string "If you mean to pass, it has to be\n"
-	.string "through me!$"
+	.string "Yooo, ich bin ein Homo.$"
 
 DewfordTown_Gym_Text_CristianDefeat:
-	.string "Grrrrr!\n"
-	.string "Vastly overpowered!$"
+	.string "Fassen Sie mich nicht an,\n"
+	.string "das ist nämlich Homo-Shit.$"
 
 DewfordTown_Gym_Text_CristianPostBattle:
-	.string "You win!\n"
-	.string "Go after that BADGE!$"
+	.string "Wir sind hier gerade im Ritz-\n"
+	.string "Carlton und können nicht einchecken\l"
+	.string "weil jemand Orangensaft verschüttet\l"
+	.string "hat. TURN UP! Einfach Orangensaft.$"
 
 DewfordTown_Gym_Text_BrawlyIntro:
-	.string "I'm BRAWLY!\n"
-	.string "DEWFORD's GYM LEADER!\p"
-	.string "I've been churned in the rough waves\n"
-	.string "of these parts, and I've grown tough\l"
-	.string "in the pitch-black cave!\p"
-	.string "So you wanted to challenge me?\n"
-	.string "Let me see what you're made of!$"
+	.string "Yooo, ich dachte mein Bro\n"
+	.string "Carlo kommt heute vorbei.\p"
+	.string "Aber jetzt steht hier auf einmal\n"
+	.string "son fetter Fettsack aus \l"
+	.string "Fettsackhausen vor mir.\p"
+	.string "Mach mal bisschen Sport, dann wirst\n"
+	.string "du eines Tages auch so krass wie Carlo!$"
 
 DewfordTown_Gym_Text_BrawlyDefeat:
-	.string "Whoah, wow! You made a much bigger\n"
-	.string "splash than I expected!\p"
-	.string "You swamped me!\p"
-	.string "Okay, you've got me.\n"
-	.string "Take this GYM BADGE!$"
+	.string "lol, bist trotzdem fett.$"
 
 DewfordTown_Gym_Text_ReceivedKnuckleBadge:
 	.string "{PLAYER} received the KNUCKLE BADGE\n"

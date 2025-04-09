@@ -288,47 +288,50 @@ LittlerootTown_BrendansHouse_1F_Movement_BrendanGoUpstairs2:
 	step_end
 
 PlayersHouse_1F_Text_IsntItNiceInHere:
-	.string "MOM: See, {PLAYER}?\n"
-	.string "Isn't it nice in here, too?$"
+	.string "Tims Mom: Bist du ein Cuck, oder\n"
+	.string "warum folgst du mir in mein Haus?$"
 
 PlayersHouse_1F_Text_MoversPokemonGoSetClock:
-	.string "The mover's POKéMON do all the work\n"
-	.string "of moving us in and cleaning up after.\l"
-	.string "This is so convenient!\p"
-	.string "{PLAYER}, your room is upstairs.\n"
-	.string "Go check it out, dear!\p"
-	.string "DAD bought you a new clock to mark\n"
-	.string "our move here.\l"
-	.string "Don't forget to set it!$"
+	.string "Macht dich das geil, zu sehen, wie\n"
+	.string "mich die beiden Affen von vorne bis\l"
+	.string "hinten durchnehmen?\p"
+	.string "Normalerweise machen das ja Tim und\n"
+	.string "Niklas mit mir, aber die sind weg!\p"
+	.string "Also, raus aus meiner Bude, und ich\n"
+	.string "warne dich, wehe du gehst nach oben\l"
+	.string "und guckst dir das Geheimfach\l"
+	.string "der Uhr an!$"
 
 PlayersHouse_1F_Text_ArentYouInterestedInRoom:
-	.string "MOM: Well, {PLAYER}?\p"
-	.string "Aren't you interested in seeing your\n"
-	.string "very own room?$"
+	.string "Tims Mom: {PLAYER}?\p"
+	.string "Du hast echt nicht die Uhr oben\n"
+	.string "angeschaut?$"
 
 PlayersHouse_1F_Text_GoSetTheClock:
-	.string "MOM: {PLAYER}.\p"
-	.string "Go set the clock in your room, honey.$"
+	.string "Tims Mom: {PLAYER}.\p"
+	.string "Hast du ein Problem die Uhr zu lesen,\n"
+	.string "oder warum hast du sie nicht angeguckt?$"
 
 PlayersHouse_1F_Text_OhComeQuickly:
-	.string "MOM: Oh! {PLAYER}, {PLAYER}!\n"
-	.string "Quick! Come quickly!$"
+	.string "Tims Mom: {PLAYER}, komm mal her!\n"
+	.string "Ich will dir was zeigen!$"
 
 PlayersHouse_1F_Text_MaybeDadWillBeOn:
-	.string "MOM: Look! It's PETALBURG GYM!\n"
-	.string "Maybe DAD will be on!$"
+	.string "Tims Mom: Guck! In dem Video hier\n"
+	.string "hat mich Niklas komplett durchgenommen!$"
 
 PlayersHouse_1F_Text_ItsOverWeMissedHim:
-	.string "MOM: Oh… It's over.\p"
-	.string "I think DAD was on, but we missed him.\n"
-	.string "Too bad.$"
+	.string "Tims Mom: Oh… leider schon vorbei.\p"
+	.string "Aber das ist der längste Clip den ich hab.\n"
+	.string "Länger als das, hat Niklas nie durchgehalten.$"
 
 PlayersHouse_1F_Text_GoIntroduceYourselfNextDoor:
-	.string "Oh, yes.\n"
-	.string "One of DAD's friends lives in town.\p"
-	.string "PROF. BIRCH is his name.\p"
-	.string "He lives right next door, so you should\n"
-	.string "go over and introduce yourself.$"
+	.string "Aber jetzt verpiss dich mal aus\n"
+	.string "meinem Haus!\p"
+	.string "Keine Ahnung, fuck lieber Carlo ab.\p"
+	.string "Der wohnt direkt neben an, den kann man\n"
+	.string "aber auch nicht überhören, wenn er\l"
+	.string "sich einen reinknacked$"
 
 PlayersHouse_1F_Text_SeeYouHoney:
 	.string "MOM: See you, honey!$"
@@ -366,14 +369,16 @@ PlayersHouse_1F_Text_RegisteredMom:
 	.string "in the POKéNAV.$"
 
 PlayersHouse_1F_Text_Vigoroth1:
-	.string "Fugiiiiih!$"
+	.string "UGA UGA BAM BAM!$"
 
 PlayersHouse_1F_Text_Vigoroth2:
-	.string "Huggoh, uggo uggo…$"
+	.string "HAB ICH HUNGER, MACH ICH\n"
+	.string "HAM HAM!!!$"
 
 PlayersHouse_1F_Text_ReportFromPetalburgGym:
-	.string "INTERVIEWER: …We brought you this\n"
-	.string "report from in front of PETALBURG GYM.$"
+	.string "Niklas im TV: FERTIG!\n"
+	.string "Tims Mom im TV: 1,5 Sekunden!\l"
+	.string "Das ist ein neuer Rekord!!$"
 
 PlayersHouse_1F_Text_TheresAMovieOnTV:
 	.string "There is a movie on TV.\p"
